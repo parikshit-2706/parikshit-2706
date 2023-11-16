@@ -5,7 +5,7 @@
 ## 🚀 About Me
 👩‍💻 I'm currently working as ***Trainee Software Engineer at Afour Technologies.***
 
-☁️ *** AWS Certified Developer Associate ****
+☁️ ***AWS Certified Developer Associate****
 
 🫱🏽‍🫲🏾 Open for Open-source contributions, contribute to DevOps and Kubernetes community.
 
