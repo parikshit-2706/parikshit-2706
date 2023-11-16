@@ -5,12 +5,12 @@
 ## 🚀 About Me
 👩‍💻 I'm currently working as ***Trainee Software Engineer at Afour Technologies.***
 
-🧠 I'm currently learning MERN stack and keen on DevOps.
+☁️ *** AWS Certified Developer Associate ****
 
-🫱🏽‍🫲🏾 I'm looking to collaborate on web devlopment projects.
+🫱🏽‍🫲🏾 Open for Open-source contributions, contribute to DevOps and Kubernetes community.
 
 
-💬 Ask me about ReactJS ⚛️, CSS, Javascript
+💬 Ask me about  Kubernetes, Docker, Jenkins, PostgreSQL, AWS, DevOps, CICD, ReactJS ⚛️, CSS, Javascript
 
 📫 How to reach me [Twitter](https://twitter.com/parikshitprc) | parikshit2097@gmail.com
 
@@ -23,7 +23,7 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Firabase, ReactJS, MaterialUI
+ Kubernetes, Docker, Jenkins, PostgreSQL, AWS
 
 
 ## 🔗 Links
